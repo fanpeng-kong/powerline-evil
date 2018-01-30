@@ -34,38 +34,38 @@
 ;;   :group 'powerline)
 
 ;; (defface powerline-evil-normal-face
-;;   '((t (:background "green" :inherit powerline-evil-base-face)))
+;;   '((t (:foreground "#005f00" :background "afd700" :inherit powerline-evil-base-face)))
 ;;   "Powerline face for evil NORMAL state."
 ;;   :group 'powerline)
 
 ;; (defface powerline-evil-insert-face
-;;   '((t (:background "blue" :inherit powerline-evil-base-face)))
+;;   '((t (:foreground "#005f5f" :background "ffffff" :inherit powerline-evil-base-face)))
 ;;   "Powerline face for evil INSERT state."
 ;;   :group 'powerline)
 
 ;; (defface powerline-evil-visual-face
-;;   '((t (:background "orange" :inherit powerline-evil-base-face)))
+;;   '((t (:foreground "#080808" :background "#df5f00" :inherit powerline-evil-base-face)))
 ;;   "Powerline face for evil VISUAL state."
 ;;   :group 'powerline)
 
 
 ;; (defface powerline-evil-operator-face
-;;   '((t (:background "cyan" :inherit powerline-evil-operator-face)))
+;;   '((t (:foreground "white" :background "sky blue" :inherit powerline-evil-operator-face)))
 ;;   "Powerline face for evil OPERATOR state."
 ;;   :group 'powerline)
 
 ;; (defface powerline-evil-replace-face
-;;   '((t (:background "red" :inherit powerline-evil-base-face)))
+;;   '((t (:foreground "#ffffff" :background "d70000" :inherit powerline-evil-base-face)))
 ;;   "Powerline face for evil REPLACE state."
 ;;   :group 'powerline)
 
 ;; (defface powerline-evil-motion-face
-;;   '((t (:background "magenta" :inherit powerline-evil-base-face)))
+;;   '((t (:foreground "white" :background "blue" :inherit powerline-evil-base-face)))
 ;;   "Powerline face for evil MOTION state."
 ;;   :group 'powerline)
 
 ;; (defface powerline-evil-emacs-face
-;;   '((t (:background "violet" :inherit powerline-evil-base-face)))
+;;   '((t (:foreground "#d7d7ff" :background "#5f00af" :inherit powerline-evil-base-face)))
 ;;   "Powerline face for evil EMACS state."
 ;;   :group 'powerline)
 
